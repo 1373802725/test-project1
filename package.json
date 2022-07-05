@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "dumi-template",
+  "name": "dumi-template-wendy",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/dumi-template",
+    "url": "https://github.com/1373802725/test-project1",
     "branch": "main"
   },
   "lint-staged": {
